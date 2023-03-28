@@ -31,6 +31,10 @@ Here are the steps that COCO SSD takes to detect objects:
 
 Overall, COCO SSD is a powerful and efficient model for object detection that can be used for a wide range of applications, from robotics and autonomous vehicles to security and surveillance systems.
 
+# Architecture
+
+![My Image](architecture.png)
+
 # Demo
 
 This a picture of the way this app works. 
