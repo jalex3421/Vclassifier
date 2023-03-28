@@ -5,6 +5,10 @@ Try to test the results! And most importantly, have fun! The app has been develo
 
 Author: Alejandro Meza Tudela
 
+# Where to try??
+
+https://vclassifier.web.app/
+
 ## Which kind of ML model does this app uses?
 
 COCO SSD (Common Objects in Context Single Shot Multibox Detection) is an object detection model developed by Google that can detect and classify objects in images or video frames. It is based on a deep convolutional neural network architecture, and it uses the TensorFlow machine learning library.
