@@ -30,3 +30,10 @@ Here are the steps that COCO SSD takes to detect objects:
 - Output: The final output of COCO SSD is a list of bounding boxes and their associated class labels and confidence scores.
 
 Overall, COCO SSD is a powerful and efficient model for object detection that can be used for a wide range of applications, from robotics and autonomous vehicles to security and surveillance systems.
+
+# Demo
+
+This a picture of the way this app works. 
+
+![My Image](demo.png)
+
