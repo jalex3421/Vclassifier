@@ -7,7 +7,9 @@ Author: Alejandro Meza Tudela
 
 # Where to try??
 
-https://vclassifier.web.app/
+Browser: microsoft edge 
+
+Link: https://vclassifier.web.app/
 
 ## Which kind of ML model does this app uses?
 
