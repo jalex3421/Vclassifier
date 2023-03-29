@@ -7,11 +7,11 @@ Author: Alejandro Meza Tudela
 
 # Where to try??
 
-Device: PC
+**Device**: PC
 
-Browser: microsoft edge 
+**Browser**: microsoft edge
 
-Link: https://vclassifier.web.app/
+**Link**: https://vclassifier.web.app/
 
 ## Which kind of ML model does this app uses?
 
