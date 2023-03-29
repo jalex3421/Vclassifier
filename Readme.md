@@ -7,6 +7,8 @@ Author: Alejandro Meza Tudela
 
 # Where to try??
 
+Device: PC
+
 Browser: microsoft edge 
 
 Link: https://vclassifier.web.app/
